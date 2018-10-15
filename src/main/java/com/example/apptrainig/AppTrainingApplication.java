@@ -82,7 +82,5 @@ public class AppTrainingApplication implements CommandLineRunner{
         cliRep.saveAll(Arrays.asList(cli1));
         endRep.saveAll(Arrays.asList(e1, e2));
 
-        //MUDANÇA AQUI
-
     }
 }
