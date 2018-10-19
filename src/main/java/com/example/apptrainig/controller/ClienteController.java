@@ -22,6 +22,5 @@ public class ClienteController {
         Cliente cli = serv.buscar(id);
         return ResponseEntity.ok().body(cli);
     }
-    
 
 }
