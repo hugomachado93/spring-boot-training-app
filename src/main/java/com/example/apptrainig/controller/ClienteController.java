@@ -23,4 +23,6 @@ public class ClienteController {
         return ResponseEntity.ok().body(cli);
     }
 
+    //TESTE
+
 }
